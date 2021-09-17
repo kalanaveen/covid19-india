@@ -1,3 +1,33 @@
+Build a Covid19-India application with help of powerfull technologies Reactjs,Nextjs,TailwindCSs.In this all live covid data getting from external api.We can see country data,state data and districts data.Also we used animations for better user experience,it is complete responsive.
+
+Home Page
+
+![image](https://user-images.githubusercontent.com/34640475/133766481-53307e7c-b474-4ad0-af82-4fc7953f4025.png)
+
+District Page
+
+![image](https://user-images.githubusercontent.com/34640475/133766531-abfb8fd5-ae06-410e-a116-c02c990ac9c0.png)
+
+Key Features
+
+
+    Nextjs server side rendering
+    Next Router used for routing
+    External api used for all data.
+    Animation effect on hover
+    Super responsive
+    
+Key Technologies
+
+    React.js
+    Next.JS
+    Next js router
+    Next js Server side rendering(SSR)
+    TailwindCSS
+    Api
+    Grid Box
+    FlexBox
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
