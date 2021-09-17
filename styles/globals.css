@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .util{
+        @apply h-16 w-56 p-1 bg-gray-600 rounded-3xl mb-2 transition duration-200 ease-in transform sm:hover:scale-105 hover:opacity-80 sm:w-80 shadow-2xl;
+    }
+}
